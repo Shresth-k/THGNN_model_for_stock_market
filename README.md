@@ -21,7 +21,6 @@ Welcome to the THGNN Stock Predictor project! This repository implements a Tempo
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/Shresth-k/THGNN_grp13.git
-   cd THGNN_grp13
    ```
 
 2. **Install Node.js Dependencies**
