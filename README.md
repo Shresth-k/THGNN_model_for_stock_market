@@ -68,8 +68,12 @@ Welcome to the THGNN Stock Predictor project! This repository implements a Tempo
 
 The project requires several data files to function. Download them from the following sources and place them in the specified directories:
 
+1. **Stocks Data**
+   - **Source**: [link](https://drive.google.com/file/d/1PJ-LvxhmGi2bGrRxbB5aDNdiXP8XqTjg/view?usp=drive_link) under `src/stocks/`
+   
+
 1. **Filtered Stocks Data**
-   - **Source**: [link](https://drive.google.com/file/d/1Ss4VLyU2D7QKM_nFXnvMNZ2lIZDMYp5z/view?usp=drive_link) under `src/backend/filtered_stocks.csv`
+   - **Source**: [link](https://drive.google.com/file/d/1PJ-LvxhmGi2bGrRxbB5aDNdiXP8XqTjg/view?usp=drive_link) under `src/backend/filtered_stocks.csv`
    - **Instructions**: Clone the repository (as done in the frontend setup) to automatically include this file in `src/backend/`. If missing, download it manually from the repository and place it in `src/backend/`.
 
 2. **Normalized Stock Data**
